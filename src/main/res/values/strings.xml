@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Peer Kamil</string>
+    <string name="app_name2">Physics XI:</string>
+    <string name="app_name3">Computer XII:</string>
+    <string name="app_name5">Chemistry XI:</string>
+    <string name="app_name4">Physics XII:</string>
+    <string name="banner_ad_unit_id">cca-app-pub-1119593473892042/8968560666</string>
+    <string name="admob_interstitial_id">ca-app-pub-1119593473892042/5593681617</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="Coming_Soon">Coming Soon</string>
+    <string name="title_About">About</string>
+    <string name="title_Exit">Exit</string>
+    <string name="app_phone">+(92) 335 7035717</string>
+    <string name="app_email">Ahmedmughal3182@gmail.com</string>
+    <string name="app_adress">K Zee Designs </string>
+    <string name="app_facebook">https://www.facebook.com/KZeeDesigns.officials/</string>
+    <string name="app_twitter">https://twitter.com/KZeeDesigns</string>
+    <string name="app_instagram">https://www.instagram.com/Ahmedz182/</string>
+    <string name="URLphysics11">https://play.google.com/store/apps/details?id=kzeedesigns.physicsXI</string>
+    <string name="URLcomp">https://play.google.com/store/apps/details?id=kzeedesigns.computerxii</string>
+    <string name="URLpp11">https://play.google.com/store/apps/details?id=com.KZee.Designs.physics12</string>
+    <string name="URLche11">https://play.google.com/store/apps/details?id=kzeedesigns.chemistryxi</string>
+    <string name="back_message">Please click BACK again to exit</string>
+    <string name="URLmore">https://play.google.com/store/apps/collection/cluster?clp=igNEChkKEzQ2OTEyMDYzMTYwNTcwMTMyMDMQCBgDEiUKH2t6ZWVkZXNpZ25zLnBoeXNpY3MxMXBhc3RwYXBlcnMQARgDGAE%3D:S:ANO1ljK_fmU</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="book">Book</string>
+    <string name="read_chapters">Read Chapters</string>
+    <string name="read_full_chapters">Read Full Chapters</string>
+    <string name="notes">Notes</string>
+    <string name="exercise">Exercise</string>
+    <string name="solved_exercises">Solved Exercises</string>
+    <string name="more">More</string>
+    <string name="are_you_sure_want_to_exit">Are you sure want to exit</string>
+    <string name="more_bout_the_app">More bout the App</string>
+    <string name="more_about_us">More about us</string>
+    <string name="exit">Exit</string>
+</resources>
