@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112731493840",
+    "firebase_url": "https://physics-xi-9c187.firebaseio.com",
+    "project_id": "physics-xi-9c187",
+    "storage_bucket": "physics-xi-9c187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112731493840:android:8c3b6ac5910e0bac4655d5",
+        "android_client_info": {
+          "package_name": "learnhubstudio.physicsXI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112731493840-06f5jfum66gvp5psr4c2j1m6vnhu380f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "learnhubstudio.physicsXI",
+            "certificate_hash": "4e05ee512123aa0762e9ccdb6c10fb8c6a099728"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbOdkeWFFTtR7M-a8LK96sDhJkD6FApco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Physics Xi</string>
+<!--    <string name="ad_unit_id" >ca-app-pub-8622346357576754/6857007722</string>-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="more_apps_developed_by_us">More apps developed by us</string>
+    <string name="a_community_of_lifelong_learners_responsible_global_citizens_and_champions_of_our_own_success"> \" A community of lifelong learners, responsible global citizens, and champions of our own success\"</string>
+    <string name="share_via">Share Via</string>
+    <string name="term_conditions"><![CDATA[Term & Conditions]]></string>
+    <string name="developed_by_lhs">Developed By: LHS</string>
+    <string name="learn_with_a_new_way">Learn With A new Way</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="a_family_of_learning">A Family Of Learning.</string>
+    <string name="chapters">Chapters</string>
+    <string name="notes">Notes</string>
+    <string name="video_lectures">Video Lectures</string>
+    <string name="quiz">Quiz</string>
+    <string name="user_agreement">Terms &amp; Conditions</string>
+    <string name="another_agreement">Another Agreement</string>
+    <string name="contact_form">Contact Us</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department…</string>
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+    <string name="give_your_suggestion">Give your suggestion</string>
+    <string name="question">Question</string>
+    <string name="play_again">Play again</string>
+    <string name="time">15</string>
+    <string name="correct">Correct</string>
+    <string name="wrongans">Opps the answer was wrong</string>
+    <string name="timeup">Time Up</string>
+    <string name="play_game">Play Game</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next</string>
+    <string name="cancel">✖</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="error_player">Error in loading video</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="Ads_id">ca-app-pub-8622346357576754~3184307592</string>
+
+    ////admob ad unit
+    <string name="banner_ad_unit_id">ca-app-pub-8622346357576754/2393346312</string>
+    <string name="admob_interstetial_ad">ca-app-pub-8622346357576754/2771592596</string>
+    <string name="app_open_ads">ca-app-pub-8622346357576754/8248308228</string>
+    <string name="nativeAdId">ca-app-pub-8622346357576754/4910641868</string>
+
+
+    ////test ad unit
+<!--    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="admob_interstetial_ad">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="app_open_ads">ca-app-pub-3940256099942544/3419835294</string>-->
+<!--    <string name="nativeAdId">ca-app-pub-3940256099942544/2247696110</string>-->
+
+    <string name="about_us">About Us</string>
+    <string name="home">Home</string>
+    <string name="more">More</string>
+
+    /////faceboook ads
+<!--    <string name="INTERSTITIAL_PLACEMENT_ID">578683009278039_663028020843537</string>-->
+<!--    <string name="banner_ad">578683009278039_662973640848975</string>-->
+    <string name="title_activity_advertisements">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
