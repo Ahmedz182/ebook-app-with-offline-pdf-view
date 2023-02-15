@@ -1,0 +1,3 @@
+//include ':nativetemplates'
+rootProject.name='physics xi'
+include ':app'

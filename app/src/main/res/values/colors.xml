@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFC305</color>
+    <color name="colorPrimaryDark">#6A00C2</color>
+    <color name="colorAccent">#FF265CDE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#757171</color>
+    <color name="backgroundColor">#3E454F</color>
+    <color name="lightGreen">#8BC34A</color>
+    <color name="green">#008000</color>
+    <color name="red">#FF0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="deeppurple">#9C27B0</color>
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="gnt_red">#FF0000</color>
+<color name="gnt_green">#00FF00</color>
+    <color name="gnt_test_background_color">#00F4F4F4</color>
+    <color name="gnt_test_background_color_2">#00A3A3A3</color>
+    <color name="gnt_black">#000000</color>
+    <color name="gnt_white">#FFFFFF</color>
+<color name="gnt_blue">#4285f4</color>
+<color name="gnt_ad_green">#3A6728</color>
+<color name="gnt_gray">#808080</color>
+<color name="gnt_outline">#E0E0E0</color>
+</resources>
