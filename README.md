@@ -1,3 +1,4 @@
+<!-- GitAds-Verify: WJXGIKM5KLFWI6W2NY3VR32IT5IV5FFJ -->
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h2 style="text-align: center;">
 PDF offline Ebook app</h2>
